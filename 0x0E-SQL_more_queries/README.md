@@ -1,10 +1,9 @@
 # SQL - More queries
-Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about how to create a new user, manage privileges for a user, `PRIMARY KEY`, `FOREIGN KEY`, constraints, subqueries, `JOIN` and `UNION` with **MySQL**.
+Project done during **Full Stack Software Engineering studies** at **ALXSE**. It aims to learn about how to create a new user, manage privileges for a user, `PRIMARY KEY`, `FOREIGN KEY`, constraints, subqueries, `JOIN` and `UNION` with **MySQL**.
 
 ## Technologies
-* `MySQL 5.7` (version 5.7.8-rc)
-* Tested on Ubuntu 14.04 LTS
 
+* Tested on  Ubuntu 20.04 LTS using MySQL 8.0 (version 8.0.25)
 ## Files
 
 All the following files are scripts of MySQL:
